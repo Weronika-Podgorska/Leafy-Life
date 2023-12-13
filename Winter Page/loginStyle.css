@@ -58,7 +58,7 @@
     .dropdown-content {
       display: none;
       position: absolute;
-      background-color: rgb(121, 177, 199);
+      background-color: #a08045;
       min-width: 160px;
       box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
       z-index: 1;
@@ -73,7 +73,7 @@
     }
 
     .dropdown-content a:hover {
-      background-color: rgb(56, 133, 156);
+      background-color: rgb(124, 87, 52);
     }
 
     .dropdown:hover .dropdown-content {

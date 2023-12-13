@@ -70,7 +70,7 @@ nav li a:hover {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: rgb(121, 177, 199);
+    background-color: #a08045;
     min-width: 120px;
     box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
     z-index: 1;
@@ -85,7 +85,7 @@ nav li a:hover {
   }
 
 .dropdown-content a:hover {
-    background-color: rgb(56, 133, 156);
+    background-color: rgb(124, 87, 52);
   }
 
 .dropdown:hover .dropdown-content {
